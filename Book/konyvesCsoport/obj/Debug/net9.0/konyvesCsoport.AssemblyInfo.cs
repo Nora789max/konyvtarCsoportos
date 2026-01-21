@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("konyvesCsoport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cffc632f37b5d39611113ac389f53b03b45b212f")]
 [assembly: System.Reflection.AssemblyProductAttribute("konyvesCsoport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("konyvesCsoport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
