@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "konyvesCsoport\\Book.cs",
               "ToolTip": "C:\\Users\\diak\\Documents\\FN\\01.21\\konyvesCsoport\\Book\\konyvesCsoport\\Book.cs",
               "RelativeToolTip": "konyvesCsoport\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAApwB4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T18:05:36.524Z",
               "EditorCaption": ""

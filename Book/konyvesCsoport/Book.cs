@@ -15,5 +15,20 @@ namespace konyvesCsoport
         public int Year { get; set; }
         public bool IsAvailable { get; set; }
 
+        public Book() { }
+
+        public Book(string iSBN, string title, string author, int year, bool isAvailable)
+        {
+            ISBN = iSBN;
+            Title = title;
+            Author = author;
+            Year = year;
+            IsAvailable = isAvailable;
+        }
+
+        public override string? ToString()
+        {
+            return ($"ISBN: {ISBN} \t {Title} - {Author} ({Year}) - {(IsAvailable? "Available": "Non Available")} ");
+        }
     }
 }
