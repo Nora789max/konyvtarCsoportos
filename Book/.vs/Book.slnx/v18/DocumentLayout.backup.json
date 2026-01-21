@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\diak\\Documents\\FN\\01.21\\Book\\",
+  "WorkspaceRootPath": "C:\\Users\\diak\\Documents\\FN\\01.21\\konyvesCsoport\\Book\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02D21450-A68C-40A7-842E-231138E173D3}|konyvesCsoport\\konyvesCsoport.csproj|c:\\users\\diak\\documents\\fn\\01.21\\book\\konyvescsoport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02D21450-A68C-40A7-842E-231138E173D3}|konyvesCsoport\\konyvesCsoport.csproj|solutionrelative:konyvescsoport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{881EB024-1453-1317-FA94-38E7324F4E1F}|konyvesCsoport\\konyvesCsoport.csproj|c:\\users\\diak\\documents\\fn\\01.21\\konyvescsoport\\book\\konyvescsoport\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881EB024-1453-1317-FA94-38E7324F4E1F}|konyvesCsoport\\konyvesCsoport.csproj|solutionrelative:konyvescsoport\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881EB024-1453-1317-FA94-38E7324F4E1F}|konyvesCsoport\\konyvesCsoport.csproj|c:\\users\\diak\\documents\\fn\\01.21\\konyvescsoport\\book\\konyvescsoport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881EB024-1453-1317-FA94-38E7324F4E1F}|konyvesCsoport\\konyvesCsoport.csproj|solutionrelative:konyvescsoport\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\FN\\01.21\\konyvesCsoport\\Book\\konyvesCsoport\\Book.cs",
+              "RelativeDocumentMoniker": "konyvesCsoport\\Book.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\FN\\01.21\\konyvesCsoport\\Book\\konyvesCsoport\\Book.cs",
+              "RelativeToolTip": "konyvesCsoport\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:05:36.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\diak\\Documents\\FN\\01.21\\Book\\konyvesCsoport\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\diak\\Documents\\FN\\01.21\\konyvesCsoport\\Book\\konyvesCsoport\\Program.cs",
               "RelativeDocumentMoniker": "konyvesCsoport\\Program.cs",
-              "ToolTip": "C:\\Users\\diak\\Documents\\FN\\01.21\\Book\\konyvesCsoport\\Program.cs",
+              "ToolTip": "C:\\Users\\diak\\Documents\\FN\\01.21\\konyvesCsoport\\Book\\konyvesCsoport\\Program.cs",
               "RelativeToolTip": "konyvesCsoport\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
